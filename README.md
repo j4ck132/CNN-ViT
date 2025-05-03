@@ -6,7 +6,7 @@ This repository contains implementations and training logs for both Convolutiona
 
 - `CNNs.ipynb` – Contains all CNN architectures used in our experiments.
 - `Vision_Transformers.ipynb` – Contains all Vision Transformer architectures used in our experiments.
-- `images/` – Includes visualizations and training logs featured in our paper (e.g. loss curves, accuracy plots, and references to architectures)
+- `images` – Includes visualizations and training logs featured in our paper (e.g. loss curves, accuracy plots, and references to architectures)
 
 ## Dataset Handling
 
