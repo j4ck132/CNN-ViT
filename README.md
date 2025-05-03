@@ -1,12 +1,12 @@
-# Vision Model Experiments
+# CNN and ViT Experiments
 
 This repository contains implementations and training logs for both Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), along with visualizations used in our paper.
 
 ## Repository Structure
 
-- `cnn_models.py` – Contains all CNN architectures used in our experiments.
-- `vit_models.py` – Contains all Vision Transformer architectures used in our experiments.
-- `images/` – Includes visualizations and training logs featured in our paper (e.g. loss curves, accuracy plots, training dynamics).
+- `CNNs.ipynb` – Contains all CNN architectures used in our experiments.
+- `Vision_Transformers.ipynb` – Contains all Vision Transformer architectures used in our experiments.
+- `images/` – Includes visualizations and training logs featured in our paper (e.g. loss curves, accuracy plots, and references to architectures)
 
 ## Dataset Handling
 
